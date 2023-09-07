@@ -1,4 +1,4 @@
-##information
+### Steps for Reproduce
 
 * Download the image with "wget" link.
 * Check with "file" cat.jpg and found out that is .jpeg.
